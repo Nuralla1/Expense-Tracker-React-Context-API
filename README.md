@@ -16,6 +16,8 @@ Command will install all modules listed as dependencies in package.json.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+If you want to check the app without launching anything, go to the following link :
+[https://elegant-kataifi-3f05eb.netlify.app](https://elegant-kataifi-3f05eb.netlify.app).
 
 ## Functionality
 
